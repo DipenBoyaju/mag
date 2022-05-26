@@ -1,0 +1,360 @@
+/*!
+ * Bootstrap Responsive v2.3.1
+ *
+ * Copyright 2012 Twitter, Inc
+ * Licensed under the Apache License v2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Designed and built with all the love in the world @twitter by @mdo and @fat.
+ */
+
+
+@media (min-width: 1200px) {
+	
+}
+
+@media (min-width: 992px) {
+
+	
+	
+}
+
+@media (min-width: 768px) {
+
+	
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+
+	
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	
+	
+	
+}
+
+@media (max-width: 767px) {	
+/** index-page-starts **/
+.breaking-news-title {
+  width: 120px;
+  padding-left: 8px;
+ }
+.navbar-brand img {
+	margin-top: -6px;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #ffe400;
+    color: #ffffff;
+}
+.navbar-default .navbar-toggle {
+    border-color: #ffe400;
+}
+.navbar-default .navbar-nav li {
+	float: left;
+	display: block;
+	margin: -10px 140px 0px 0;
+}
+.banner-content {
+	height: 250px;
+}
+.contain .blank {
+	height: 220px;
+}	
+.contain {
+	margin: 55px 0 0 0;
+}
+.contain .trend .one {
+	margin: 65px 0 65px 0;
+}
+.contain .trend .two {
+	margin-top: 0;
+}
+.contain .trend h3 {
+	margin:10px 0 0 160px;
+	text-align: left;
+}
+.contain .img2 h6,
+.contain2 .img2 h6 {
+	margin : -40px 0 0 142px;
+}
+.contain .img2 .above,
+.contain2 .img2 .above{
+    margin: 0 20px;
+    margin-top: -70px;
+    padding: 25px 0;
+}
+div.helium-slider ul.slide-nav {
+    margin: -20px 0 0 115px;
+}    
+.contain .local-news {
+	margin-top: 30px;
+}
+.contain .local-news .info {
+	padding-left: 30px;
+}
+.contain .local-news .over {
+ padding: 0 30px 30px 30px;
+}
+.contain .inter-news img {
+	width: auto;
+}
+/** slide-cont **/
+.nav-tabs > li > a { 
+	font-size: 12px; 
+	padding: 15px 22px;
+}
+.contain .inter-news .marg p {
+	margin-top: 15px;
+}
+.news-archiv .nav-tabs > li > a { 
+	font-size: 12px;
+	padding: 15px 12px;
+}
+.contain .media .row {
+	margin: 10px 0;
+}
+.contain .media .like p {
+	margin-bottom: 0;
+}
+.contain .media .row .facebook,
+.contain .media .row .twitter,
+.contain .media .row .youtube,
+.contain .media .row .instagram {
+	float: left;
+	width: 33.33%;
+}
+.contain .media .row .twitter,
+.contain .media .row .instagram {
+	margin-left: 28px;
+}
+.contain .media .row .google,
+.contain .media .row .linkedin {
+	float: right;
+	width: 33.33%;
+}
+.contain .catgo .row img {
+	width: auto;
+	margin: 18px 0;
+}
+.contain .catgo .row {
+	margin: 5px 0;
+}
+.contain .catgo .row p {
+	margin: -90px 0px 0px 115px;
+	font-size: 12px;
+}
+.contain .catgo {
+	padding-bottom: 30px;
+}
+.contain .catgo .row .ran p {
+	margin: 20px -8px 0px 0px;
+	font-size: 8px;
+}
+.catgo .ran p::after {
+    margin: 11px 0 0 -5px;
+}
+.contain .catgo .row .ats p {
+	padding-top: -50px;
+}
+.contain .catgo .row {
+    padding: 15px 0px;
+}
+.contain .sports .match .match1 .ma {
+	float: left;
+}
+.contain .sports .match .match1 .ar {
+	float: right;
+	margin-top: -58px;
+}
+.contain .sports .match .match1 .vs p {
+	margin: 35px 150px 0 150px;
+}
+.deg-val {
+    padding: 18px 0 0px 25px;
+}
+.deg {
+	float: right;
+	margin: -105px 10px 0 0 ;
+}
+.deg i .wi {
+	font-size: 60px;
+}
+.day-weather-box {
+	width: 22%;
+	display: inline-block;
+}
+.forecast-min-low p {
+	color: #ffffff;
+	padding-left: 0px;
+	margin-left: -10px;
+}
+.sports .rem-match p {
+	float: right;
+	margin-top: -60px;
+}
+.sports .rem-match p::before {
+    margin: -60px 160px 0 0px;
+}
+.admins .vid-blk {
+    width: 49%;
+    margin-left: 2px;
+    margin-bottom: 0px;
+}
+.admins .vid-blk .gra {
+    height: 80px;
+    margin-top: 12px;
+}
+.admins .vid-blk h3 {
+    font-size: 11px;
+}
+.vid-blk .alp {
+    margin: 0 20px;
+    margin-top: -20px;
+}
+.vid-blk .tie p {
+    margin: -15px 0 0 55px;
+}
+.video-sec {
+	margin-top: 15px;
+}
+.video-sec .big-video .blk {
+	height: 200px;
+	width: 85%;
+	margin-left: 25px;
+}
+.video-sec .big-video img {
+	width: 60px;
+		margin: 60px 50px 0 -25px;
+	}
+.smved .small-video {
+	padding: 8px 8px;
+	margin: -55px 60px 0px 60px;
+	}	
+.smved .small-video .wh-blk {
+	width: 18%;
+	height: 60px;
+	margin: 8px 2px;
+}
+.footer .bottom-logo::after {
+	width: 300px;
+	margin: 65px 0 0 -110px;
+}
+.footer .row .f-on,
+.footer .row .f-th,
+.footer .row .f-to{
+	float: left;
+}
+/** index-page-ends **/
+
+/** listing-page-ends**/
+.contain2 .instagram img {
+	padding: 0 30px 30px 30px;
+} 
+.contain2 .face h4 {
+	margin: 152px 15px 0 0px;
+}
+.contain2 .time i {
+    margin-left: -45px;
+}
+.contain2 .time i:last-child::after {
+    height: 371px;
+}
+.contain2 .time i::after {
+    left: -20px;
+    margin: -45px 29px 0 0;
+}
+.timeline i::after {
+    height: 115px;
+}
+.timeline i {
+    margin-left: -20px;
+}
+.contain2 .face h4 {
+    padding: 15px;
+    font-size: 14px;
+    margin: 101px 15px 0 0px;
+}
+.contain2 .archives img,
+.blog-admins img {
+	width: auto;
+}
+.contain2 .archives .new p,
+.blog-admins .new p {
+    margin: -70px 0 0 115px;
+}
+.contain2 .archives .marg p,
+.blog-admins .marg p {
+	margin: 8px 0 0 126px;
+}
+.contain2 .archives .ran p {
+	margin-top: -56px;
+	font-size: 10px;
+	padding: 2px 4px 3px 4px;
+	margin-right: -5px;
+}
+.blog-admins .ran p {
+	margin-top: -40px;
+}	
+.contain2 .archives .row {
+	padding-bottom: 30px;
+	margin-bottom: 25px;
+	padding-top: 0px;
+}
+.blog-admins .row {
+	padding-bottom: 40px;
+	margin-bottom: 10px;
+}
+.ran p::after {
+    margin: 14px 0 0 -6px;
+}
+.blog-admins p::after {
+    margin: 11px 0 0 -5px;
+}
+.onlinepoll img {
+	width: auto;
+}
+/** listing-page-ends**/
+
+.mid-slide {
+    height: 250px;
+}
+.mid-slide i {
+    margin-top: 90px;
+}
+.mid-slide .bot {
+    margin-top: 30px;
+}
+.prog-barr {
+	padding: 30px 15px 30px 0px;
+}
+/** video-news-page-starts**/
+/** video-news-page-ends**/
+
+.team .so-ic {
+    margin-left: 125px;
+}
+#contact-form button[type="submit"] {
+    padding: 8px;
+}
+.comments-container {
+		width: 480px;
+	}
+
+	.comments-list .comment-box {
+		width: 390px;
+	}
+
+	.reply-list .comment-box {
+		width: 320px;
+	}
+
+	}
+@media (max-width: 480px) {
+/** index-page-starts **/	
+
+/** index-page-ends **/
+}
